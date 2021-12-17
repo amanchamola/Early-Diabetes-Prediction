@@ -1,0 +1,2 @@
+# Early-Diabetes-Prediction
+The main objective of this project is to predict whether the person is diabetic or not using various features like glucose, BMI and insulin. Data extraction, data cleaning, data analysis, data preprocessing, data modelling and model evaluation have been performed during the task of working on this project. Model evaluation will tell us which classifier algorithm works best for diabetes prediction. and that algorithm will be used for model deployment using flask.
